@@ -207,7 +207,10 @@ a:hover{
 .boy{
  width:128px; 
 }
-
+.navbar {
+  transition: 0.5s;
+  height: 120px;
+}
 
 @media (max-width:1028px) {
   .mountain{
