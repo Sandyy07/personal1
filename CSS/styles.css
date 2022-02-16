@@ -204,6 +204,9 @@ a:hover{
 .carousel-control-next-icon{
   background-image: url("<i class="fa-solid fa-angle-left"></i>");
 }
+.boy{
+ width:128px; 
+}
 
 
 @media (max-width:1028px) {
